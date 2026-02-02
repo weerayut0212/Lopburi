@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "2025-05-12-q6ut3c2vsyshyz2g",
+      "properties": {
+        "format": "obj"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.0391132,
+              47.793028
+            ],
+            [
+              13.0391132,
+              47.806772
+            ],
+            [
+              13.0534213,
+              47.806772
+            ],
+            [
+              13.0534213,
+              47.793028
+            ],
+            [
+              13.0391132,
+              47.793028
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
